@@ -1,6 +1,3 @@
-<a href="https://sohaibali2000.io">
-  <img src="https://media.licdn.com/dms/image/D4E12AQHs2av0jpbtYA/article-cover_image-shrink_720_1280/0/1681372887989?e=2147483647&v=beta&t=d_6Al3_Bt04WL9m0stIsjiPtrmt4cHouHAWzyrKrM-o" alt="MasterHead" style="width:100%; max-width:1200px; height:auto;">
-</a>
 
 
 
